@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/neuromatch/.github/main/profile/neuromatch-light.png" width="300">
+  <img src="https://raw.githubusercontent.com/neuromatch/.github/main/profile/neuromatch-light.png" width="500">
 </p>
 
 [Neuromatch](https://neuromatch.io/) is a 501c3 not-for-profit organization in the United States. We are an online community of
@@ -11,9 +11,9 @@ and Neuromatch Conference ([conference.neuromatch.io](http://conference.neuromat
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/neuromatch/.github/main/profile/neuromatch-academy-light.png" width="300">
+  <img src="https://raw.githubusercontent.com/neuromatch/.github/main/profile/neuromatch-academy-light.png" width="250">
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/neuromatch/.github/main/profile/neuromatch-conference-light.png" width="300">
+  <img src="https://raw.githubusercontent.com/neuromatch/.github/main/profile/neuromatch-conference-light.png" width="250">
 </p>
 
 
